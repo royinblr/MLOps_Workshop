@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: $(mlops-anand-personal-vg)
+- group: mlops-anand-personal-vg
 
 stages:
 - stage: 'Dev'
